@@ -9,7 +9,6 @@ I'm a soon-to-be highschool graduate who is learning to code. My pronouns are sh
 * Also know: JavaScript, Python, HTML, CSS
 * Database experience: MongoDB, Firebase, SQL
 
-</br>
           
 ### Some Stats
 ![Evey-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=evey-dev&show_icons=true&theme=dracula&bg_color=00000000&text_color=B8D376&title_color=D70000&icon_color=D70000&hide_border=true)
