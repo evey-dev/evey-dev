@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/966072362283991131/987513076507086948/output-onlinegiftools.gif?size=4096" alt="cat animation" width="200"/>
+</p>
+<h1 align="center">Hey! I'm Evelyn</h1>
 
-<!--
-**evey-dev/evey-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a soon-to-be highschool graduate who is learning to code. My pronouns are she/her.
 
-Here are some ideas to get you started:
+* Currently Learning: Java, Dart
+* Also know: JavaScript, Python, HTML, CSS
+* Database experience: MongoDB, Firebase, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+          
+### Some Stats
+![Evey-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=evey-dev&show_icons=true&theme=dracula&bg_color=00000000&text_color=B8D376&title_color=D70000&icon_color=D70000&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evey-dev&layout=compact&theme=dracula&bg_color=00000000&text_color=B8D376&title_color=D70000&icon_color=D70000&hide_border=true)
+
+*Note: I recently transferred some projects from another github account. However, the commits from that account did not transfer.*
+
