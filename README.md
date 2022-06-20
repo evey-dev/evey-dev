@@ -14,6 +14,3 @@ I'm a soon-to-be highschool graduate who is learning to code. My pronouns are sh
 ![Evey-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=evey-dev&show_icons=true&theme=dracula&bg_color=00000000&text_color=B8D376&title_color=D70000&icon_color=D70000&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evey-dev&layout=compact&theme=dracula&bg_color=00000000&text_color=B8D376&title_color=D70000&icon_color=D70000&hide_border=true&languages=5)
-
-*Note: I recently transferred some projects from another github account. However, the commits from that account did not transfer.*
-
