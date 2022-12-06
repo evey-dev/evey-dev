@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">Hey! I'm Evelyn</h1>
 
-I'm a soon-to-be highschool graduate who is learning to code. My pronouns are she/her.
+I'm attending the University of Michigan and majoring in Data Science. My pronouns are she/her.
 
-* Currently Learning: Java, Dart
-* Also know: JavaScript, Python, HTML, CSS
+* Currently Learning: C++
+* Also know: JavaScript, Python, HTML, CSS, Java, Dart
 * Database experience: MongoDB, Firebase, SQL
 
           
